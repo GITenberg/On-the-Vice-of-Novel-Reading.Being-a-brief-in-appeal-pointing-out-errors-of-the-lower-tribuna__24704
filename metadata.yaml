@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2851
     wikipedia: http://en.wikipedia.org/wiki/Young_E._Allison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24704#On-the-Vice-of-Novel-Reading.Being-a-brief-in-appeal-pointing-out-errors-of-the-lower-tribuna_
 gutenberg_issued: '2008-02-27'
 gutenberg_type: Text
 identifiers:
