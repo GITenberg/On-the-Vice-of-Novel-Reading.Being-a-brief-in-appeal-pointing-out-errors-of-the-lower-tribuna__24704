@@ -1,0 +1,31 @@
+_repo: On-the-Vice-of-Novel-Reading.Being-a-brief-in-appeal-pointing-out-errors-of-the-lower-tribuna__24704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allison, Young Ewing
+    alias: Allison, Young E.
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '2851'
+    url: http://www.gutenberg.org/2009/agents/2851
+    wikipedia: http://en.wikipedia.org/wiki/Young_E._Allison
+description: ''
+gutenberg_issued: '2008-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction in libraries'
+- !lcsh 'Books and reading'
+- !lcc 'Z'
+title: 'On the Vice of Novel Reading.
+
+  Being a brief in appeal, pointing out errors of the lower tribunal.'
+url: http://www.gutenberg.org/ebooks/24704
